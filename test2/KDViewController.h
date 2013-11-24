@@ -17,5 +17,6 @@
 
 
 // коммент
+- (IBAction)buttonPressed:(id)sender;
 
 @end
